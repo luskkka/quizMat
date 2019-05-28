@@ -28,7 +28,7 @@ var questions = [
     ],
     ["(Enem 2012)  Um maquinista de trem ganha R$ 100,00 por viagem e só pode viajar a cada 4 dias. Ele ganha somente se fizer a viagem e sabe que estará de férias de 1º a 10 de junho, quando não poderá viajar. Sua primeira viagem ocorreu no dia primeiro de janeiro. Considere que o ano tem 365 dias. Se o maquinista quiser ganhar o máximo possível, quantas viagens precisará fazer? ",
         "37", "51", "88", "89","91",
-        "img/ex4.jpg", "", "", "", "","",
+        "", "", "", "", "","",
         "3"
     ],
     ["(Enem 2005)  Os números de identificação utilizados no cotidiano (de contas bancárias, de CPF, de Carteira de Identidade etc) usualmente possuem um dígito de verificação, normalmente representado após o hífen, como em   Esse dígito adicional tem a finalidade de evitar erros no preenchimento ou digitação de documentos. Um dos métodos usados para gerar esse dígito utiliza os seguintes passos:",
